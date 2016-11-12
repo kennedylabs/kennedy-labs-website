@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "KennedyLabsWebsite", "KennedyLabsWebsite\KennedyLabsWebsite.xproj", "{6FA09381-6E04-4FCD-9785-B760F2E8EDA4}"
-EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AccountsWebsite", "AccountsWebsite\AccountsWebsite.xproj", "{C832B84B-4030-4742-849E-FA91BD567E94}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "KennedyLabsWebsite", "KennedyLabsWebsite.xproj", "{6FA09381-6E04-4FCD-9785-B760F2E8EDA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{6FA09381-6E04-4FCD-9785-B760F2E8EDA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FA09381-6E04-4FCD-9785-B760F2E8EDA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FA09381-6E04-4FCD-9785-B760F2E8EDA4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C832B84B-4030-4742-849E-FA91BD567E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C832B84B-4030-4742-849E-FA91BD567E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C832B84B-4030-4742-849E-FA91BD567E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C832B84B-4030-4742-849E-FA91BD567E94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
